@@ -15,9 +15,6 @@
     <div>
         <img src="images/logo.png" />
         
-        <div><asp:Label id="lblDate" runat="server"></asp:Label></div>
-        <div><asp:Label id="lblSelectedDate" runat="server" Text="Hurr"></asp:Label></div>
-
         <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
         </asp:ContentPlaceHolder>
     </div>

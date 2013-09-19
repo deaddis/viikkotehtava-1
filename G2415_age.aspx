@@ -3,7 +3,9 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-    <asp:Calendar ID="Calendar" runat="server" Width="621px"></asp:Calendar>
+    <div><asp:Label ID="lblDate" runat="server"></asp:Label></div>
+    <div><asp:Label ID="lblSelectedDate" runat="server"></asp:Label></div>
+    <asp:Calendar ID="Calendar" runat="server" Width="621px" OnSelectionChanged="fart"></asp:Calendar>
 </asp:Content>
 
 
