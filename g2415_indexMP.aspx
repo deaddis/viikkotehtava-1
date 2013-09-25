@@ -9,7 +9,9 @@
         <div><asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/g2415_LocalDBDemo.aspx">ElokuvaRekisteri</asp:HyperLink></div>
             <h1>Vk38 tuntiharkat</h1>
         <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/G2415_age.aspx">Iänlaskenta kalenteri</asp:HyperLink>
-            <h1>Viikkotehtävä 2</h1>
-        
+            <h1>Kotitehtävät 1</h1>
+        <asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/G2415_valuuttamuunnin.aspx">Iänlaskenta kalenteri</asp:HyperLink>
+        <asp:HyperLink ID="HyperLink6" runat="server" NavigateUrl="~/G2415_eläkelaskuri.aspx">Iänlaskenta kalenteri</asp:HyperLink>
+
 </asp:Content>
 
