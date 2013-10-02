@@ -1,0 +1,1 @@
+Sovellus on tarkoitettu filebrowseriksi.
