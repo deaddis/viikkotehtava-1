@@ -16,5 +16,8 @@
         <div><asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/G2415_valuuttamuunnin.aspx">Kotitehtävä1_Valuuttamuunnin</asp:HyperLink></div>
         <div><asp:HyperLink ID="HyperLink6" runat="server" NavigateUrl="~/G2415_eläkelaskuri.aspx">Kotitehtävä2_Eläkelaskuri</asp:HyperLink></div>
 
+            <h1>Vk40 Tuntitehtävä</h1>
+        <div><asp:HyperLink ID="HyperLink7" runat="server" NavigateUrl="~/g2415_ISrss.aspx">Iltasanomat RSS feed</asp:HyperLink></div>
+
 </asp:Content>
 
