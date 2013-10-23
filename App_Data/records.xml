@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Records>
+  <genre name="Hipster">
+    <record ISBN="Anna2009" Artist="Anna Puu" Title="Anna Puu" Price="9.99">
+      <song num="1" name="Linnuton puu">
+        Tuolla puu josta linnut ovat tippuneet
+      </song>
+      <song num="2" name="Cest la vie">
+        Lyrics...
+      </song>
+      <song num="3" name="Melankolian riemut">
+        Hei tippaukot hyppikaa
+      </song>
+    </record>
+    <record ISBN="Anna2010"  Artist="Anna Puu" Title="Sahara" Price="11.99">
+      <song num="1" name="Riko minu">
+        Lyrics...
+      </song>
+      <song num="2" name="Anna ja merikarhu">
+        Lyrics...
+      </song>
+      <song num="3" name="Nopeimmat junat">
+        Lyrics...
+      </song>
+    </record>
+    <record ISBN="Anna2012" Artist="Anna Puu" Title="Antaudun" Price="19.99">
+      <song num="1" name="Antaudun">
+        Lyrics...
+      </song>
+      <song num="2" name="Pimeys peittoaa maan">
+        Those wew the days...
+      </song>
+      <song num="3" name="Kolme pikku sanaa">
+        Lyrics...
+      </song>
+    </record>
+      <record ISBN="SelfMade" Artist="Me" Title="Teh Hipster in me" Price="59.99">
+        <song num="1" name="hipsters">
+          Lyrics...
+        </song>
+        <song num="2" name="LoL Mainstream">
+          Those wew the days...
+        </song>
+        <song num="3" name="Not so Straight">
+          Lyrics...
+        </song>
+    </record>
+  </genre>
+  <genre name="NotHipster">
+    <record ISBN="Avenged" Artist="Avenged Sevenfold" Title="Hail To The King" Price="19.95">
+      <song num="1" name="Shepherd of Fire">
+        Lisää tähän lyriikat.
+      </song>
+      <song num="2" name="Hail to the King">
+        Hail to the king
+      </song>
+      <song num="3" name="Doing time">
+        Lisää tähän lyriikat.
+      </song>
+    </record>
+  </genre>
+</Records>
