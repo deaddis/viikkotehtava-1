@@ -17,7 +17,7 @@
             </td>
             <td>
               <div id="Div1" runat="Server">
-                  <h3><span class="bold"><%#Eval("ArtistTitle") %></span></h3>
+                  <h1><span class="bold"><%#Eval("ArtistTitle") %></span></h1>
                   <p><span class="bold">ISBN : </span><asp:LinkButton runat="server" Text='<%#Eval("ISBN") %>' CommandArgument='<%#Eval("ISBN") %>' ID="OpenAlbum" OnClick="OpenAlbum_Click" /> <br />
                      <span class="bold">Price : </span> <%#Eval("Price") %>
                   </p>
@@ -41,7 +41,7 @@
             <tr>
                 <td>
                     <div id="Div1" runat="Server">
-                        <h3><span class="bold"><%#Eval("ArtistTitle") %></span></h3>
+                        <h1><span class="bold"><%#Eval("ArtistTitle") %></span></h1>
                         <p> <span class="bold">ISBN : </span><%#Eval("ISBN") %> 
                             <br> </br>
                         <span class="bold">Price : </span><%#Eval("Price") %>
