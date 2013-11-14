@@ -15,7 +15,7 @@
         <asp:Label ID="lblLasnaoloa" runat="server">...</asp:Label> <br/>
         <asp:DropDownList ID="cmbStudents" runat="server"></asp:DropDownList>
         <asp:GridView ID="gvData" runat="server"></asp:GridView>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AsioID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Etunimi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sukunimi<br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AsioID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Etunimi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sukunimi <br/>
         <asp:TextBox ID="txtboxMyAsioid" runat="server"></asp:TextBox>
         <asp:TextBox ID="txtboxEtunimi" runat="server"></asp:TextBox>
         <asp:TextBox ID="txtboxSukunimi" runat="server"></asp:TextBox>
